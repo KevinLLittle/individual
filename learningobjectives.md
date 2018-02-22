@@ -2,3 +2,4 @@
 - Remotes
 - GitHub
 - Branches  
+- Network Activity
